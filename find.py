@@ -1,6 +1,6 @@
 import os
 
-search_string = "康諾利"
+search_string = "纔"
 folder_path = "./big5"
 
 # 設置文件編碼為utf-16 LE,utf-16-le,Shift-JIS
