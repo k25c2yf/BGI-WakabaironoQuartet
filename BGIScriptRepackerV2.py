@@ -39,7 +39,7 @@ except:
     print("Error!")
     exit()
 try:
-    TXFile = open(TX, 'r', 1, 'UTF-8')
+    TXFile = open(TX, 'r', 1, 'utf-8')
 except FileNotFoundError:
     print(TX + " Error!\tCan't find file!")
     exit()
